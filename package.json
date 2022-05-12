@@ -24,7 +24,7 @@
     "solidity-docgen": "0.3.0-beta.4",
     "truffle": "^5.0.32",
     "truffle-contract": "^3.0.7",
-    "truffle-flattener": "1.2.10",
+    "truffle-flattener": "1.6.0",
     "truffle-hdwallet-provider": "^1.0.16",
     "web3-utils": "1.0.0-beta.55"
   }
